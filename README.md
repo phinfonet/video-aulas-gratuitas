@@ -4,6 +4,7 @@ Video aulas gratuitas
 Vídeo aulas gratuitas atualizadas de diversas linguagens
 
 Python 
+======
 
 Osvaldo Santana - https://osantana.me/curso-de-python-e-django/
 
