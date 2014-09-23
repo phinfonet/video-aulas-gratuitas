@@ -29,8 +29,8 @@ Ruby
 EN
 --
 
-** RailsCasts | a compilation of many screencasts about rails by @rbates** - http://railscasts.com
-** Gorails | similar to RailsCasts but with new content** - https://gorails.com/
+**RailsCasts | a compilation of many screencasts about rails by @rbates** - http://railscasts.com
+**Gorails | similar to RailsCasts but with new content** - https://gorails.com/
 
 Vim
 ===
@@ -38,7 +38,7 @@ Vim
 EN
 --
 
-**VimCasts | A compilation of many screencasts about Vim editor ** - http://vimcasts.org/
+**VimCasts | A compilation of many screencasts about Vim editor** - http://vimcasts.org/
 
 
 
